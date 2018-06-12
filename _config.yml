@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Vishal Soni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/Vishal.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Passionate about technology to empower people. Enthusiasm for AI."
   location         : "Anand"
   email            : vishal.hari24@gmail.com
